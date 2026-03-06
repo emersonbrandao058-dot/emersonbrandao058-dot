@@ -1,31 +1,39 @@
-<h1 align="center">👋 Oi! Eu sou Emerson Brandão</h1>
+<h1 align="center">👋 Olá, eu sou Emerson Brandão</h1>
 
 <p align="center">
-💻 Desenvolvedor em formação | 🎓 ADS <br>
-🚀 Apaixonado por programação e tecnologia
+💻 Desenvolvedor em formação <br>
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS) <br>
+🚀 Apaixonado por tecnologia e construção de projetos reais
 </p>
 
 ---
 
-# ✨ Sobre mim
+## 🧠 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e estou focado em aprender **desenvolvimento web e backend**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e atualmente estou focado em aprender **programação e desenvolvimento web**.
 
-Atualmente estudo **Python, JavaScript e desenvolvimento de aplicações web**, sempre criando projetos práticos para evoluir minhas habilidades.
+Tenho interesse em **backend, automação e desenvolvimento de aplicações completas**, sempre buscando evoluir através da prática e criação de projetos.
+
+Atualmente estudando:
+
+- Python
+- JavaScript
+- Desenvolvimento Web
+- Estrutura de dados e lógica de programação
 
 ---
 
-# 🧠 Tech Stack
+## 🚀 Tecnologias
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,html,css,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nextjs,git,github,vscode"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
 <p align="center">
 
@@ -37,20 +45,30 @@ Atualmente estudo **Python, JavaScript e desenvolvimento de aplicações web**, 
 
 ---
 
-# 🚀 Projetos em Destaque
+## 🔥 Sequência de commits
 
-### 📦 Monitor Inteligente
-Sistema desenvolvido em Python para monitoramento e controle de dados.
+<p align="center">
 
-### 🎓 META-10
-Protótipo visual de portal educacional com foco em experiência moderna.
+<img src="https://streak-stats.demolab.com/?user=emersonbrandao058-dot&theme=tokyonight"/>
 
-### 💻 Portfolio Premium
-Portfólio pessoal desenvolvido com Next.js e design moderno.
+</p>
 
 ---
 
-# 🌐 Conecte-se comigo
+## 🚀 Projetos em Destaque
+
+### 💻 Portfolio Premium
+Portfólio pessoal desenvolvido com **Next.js e TypeScript**, focado em design moderno e responsividade.
+
+### 🧠 Monitor Inteligente
+Sistema em **Python** para monitoramento e organização de dados.
+
+### 🎓 META-10
+Protótipo visual de portal educacional com interface moderna.
+
+---
+
+## 🌎 Contato
 
 <p align="center">
 
@@ -66,4 +84,4 @@ Portfólio pessoal desenvolvido com Next.js e design moderno.
 
 ---
 
-⭐ Sempre aprendendo e construindo novos projetos!
+⭐ Sempre aprendendo e evoluindo na programação.
