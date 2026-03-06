@@ -3,23 +3,23 @@
 <p align="center">
 💻 Desenvolvedor em formação <br>
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS) <br>
-🚀 Apaixonado por tecnologia e construção de projetos reais
+🚀 Apaixonado por programação e tecnologia
 </p>
 
 ---
 
 ## 🧠 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e atualmente estou focado em aprender **programação e desenvolvimento web**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e estou focado em aprender **programação, backend e desenvolvimento web**.
 
-Tenho interesse em **backend, automação e desenvolvimento de aplicações completas**, sempre buscando evoluir através da prática e criação de projetos.
+Atualmente estou estudando:
 
-Atualmente estudando:
+- Python 🐍
+- JavaScript ⚡
+- Desenvolvimento Web 🌐
+- Estrutura de dados e lógica de programação 🧠
 
-- Python
-- JavaScript
-- Desenvolvimento Web
-- Estrutura de dados e lógica de programação
+Busco evoluir criando **projetos práticos e aplicações reais**.
 
 ---
 
@@ -61,23 +61,31 @@ Atualmente estudando:
 Portfólio pessoal desenvolvido com **Next.js e TypeScript**, focado em design moderno e responsividade.
 
 ### 🧠 Monitor Inteligente
-Sistema em **Python** para monitoramento e organização de dados.
+Sistema desenvolvido em **Python** para monitoramento e organização de dados.
 
 ### 🎓 META-10
 Protótipo visual de portal educacional com interface moderna.
 
 ---
 
-## 🌎 Contato
+## 🌎 Conecte-se comigo
 
 <p align="center">
 
 <a href="mailto:emersonbrandao058@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/emersonbrandao058-dot">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/emerson-brandao-b33839337">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/brandao.emerson/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </p>
